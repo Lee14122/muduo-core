@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/lee/projects/muduo-core/build/cmake_install.cmake",
+		"/home/lee/projects/muduo-core/build/src/cmake_install.cmake",
+		"/home/lee/projects/muduo-core/build/example/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

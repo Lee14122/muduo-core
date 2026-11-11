@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/testserver.dir/link.d CMakeFiles/testserver.dir/testserver.cc.o -o /home/lee/projects/muduo-core/example/testserver  -Wl,-rpath,/home/lee/projects/muduo-core/lib /home/lee/projects/muduo-core/lib/libmuduo_core.so -lpthread
